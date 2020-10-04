@@ -13,3 +13,5 @@
 
 ### For running the program
 **python manage.py runserver**
+
+The main project is **Project1**
